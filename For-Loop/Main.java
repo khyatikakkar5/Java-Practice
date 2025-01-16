@@ -14,4 +14,4 @@ public class Main {
 
             return (amount * ( interestRate / 100));
         }
-}
+} 

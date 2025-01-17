@@ -6,7 +6,6 @@ public class Main2 {
                 break;
             }
             System.out.println(" 100 dollars at " +i+ "% rate = $" +calculateInterest(100, i));
-
         }
     }
     public static double calculateInterest( double amount,double i){

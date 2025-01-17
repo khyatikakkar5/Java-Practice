@@ -1,4 +1,4 @@
-public class Mini {
+public class Main2 {
     public static void main(String[] args){
 
         for ( double i = 7.5; i <= 10.0 ; i += 0.25){

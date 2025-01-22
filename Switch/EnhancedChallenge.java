@@ -8,6 +8,7 @@ public class EnhancedChallenge {
         printWeekDay(5);
         printWeekDay(6);
     }
+
     public static void printDayOfWeek(int day){
         String dayOfWeek  = switch(day){
             case 0 -> { yield "Sunday";}
@@ -21,6 +22,7 @@ public class EnhancedChallenge {
         };
         System.out.println( day + " stands for " +dayOfWeek);
     }
+    
     public static void printWeekDay( int day){
 
         String dayOfWeek = " Invalid Day";

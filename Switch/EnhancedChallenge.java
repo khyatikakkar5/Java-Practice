@@ -42,5 +42,4 @@ public class EnhancedChallenge {
         System.out.println(day + " stands for " + dayOfWeek);
 
         }
-
 }

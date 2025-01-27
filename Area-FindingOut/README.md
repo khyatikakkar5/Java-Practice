@@ -1,6 +1,6 @@
 # Area-FindingOut using Java
 
-Author
+Author ~ Khyati Kakkar
 
 Methods in Java is being used.
 Method named Area with parameter radius of type double is used to calculate the area of a circle.

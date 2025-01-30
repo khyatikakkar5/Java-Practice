@@ -3,8 +3,8 @@ public class Palindrome {
         System.out.println(isPalindrome(12321));
     }
 
-
-        public static boolean isPalindrome(int number){
+        
+    public static boolean isPalindrome(int number){
             int reverse = 0;
             int original = number;
             while(original != 0) {
@@ -12,5 +12,6 @@ public class Palindrome {
                 original /= 10;
             }
             return reverse == number;
-        }
+    }
+
 }

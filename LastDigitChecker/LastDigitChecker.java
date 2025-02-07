@@ -5,6 +5,7 @@ public class LastDigitChecker {
     }
     
     public static boolean hasSameLastDigit(int firstNumber, int secondNumber, int thirdNumber) {
+        
         if((10 <= firstNumber) && (10 <= secondNumber) && (10 <= thirdNumber) && (firstNumber <= 1000) && (secondNumber <= 1000) && (thirdNumber <= 1000)) {
             int firstRight = firstNumber % 10;
             int secondRight = secondNumber % 10;

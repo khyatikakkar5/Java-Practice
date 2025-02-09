@@ -10,8 +10,9 @@ public class Main {
                 System.out.println("10000 at " +interestRate +"% interest = " + calculateInterest(10000, interestRate));
             }
         }
+
         public static double calculateInterest( double amount, double interestRate){
 
-            return (amount * ( interestRate / 100));
+             return (amount * ( interestRate / 100));
         }
 } 

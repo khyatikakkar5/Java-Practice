@@ -1,5 +1,5 @@
 public class OddEven {
-    public static void main(String[] args){
+    public static void main(String... args){
 
         int sum = 0;
         int num = 4;

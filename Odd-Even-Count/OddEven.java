@@ -1,4 +1,4 @@
-public class sixtyfive {
+public class OddEven {
     public static void main(String[] args){
 
         int sum = 0;

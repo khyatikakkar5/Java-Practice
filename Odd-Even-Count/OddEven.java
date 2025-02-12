@@ -19,7 +19,8 @@ public class OddEven {
             System.out.println("Even number " +num);
             evenCount++;
             sum += num;
-           if (evenCount >= 5) {
+            
+            if (evenCount >= 5) {
                break;
            }
        }

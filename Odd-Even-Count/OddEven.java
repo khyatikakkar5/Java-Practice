@@ -16,10 +16,9 @@ public class OddEven {
                continue;
            }
 
-
-           System.out.println("Even number " +num);
-           evenCount++;
-           sum += num;
+            System.out.println("Even number " +num);
+            evenCount++;
+            sum += num;
            if (evenCount >= 5) {
                break;
            }
@@ -29,7 +28,7 @@ public class OddEven {
        System.out.println("Total even numbers = " +evenCount);
        System.out.println("Sum of even nums is = " +sum);
     }
-    
+
     public static boolean isEvenNumber(int num){
         if (num%2 == 0){
             return true;

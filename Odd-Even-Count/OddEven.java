@@ -24,11 +24,12 @@ public class OddEven {
                break;
            }
        }
-       
+
        System.out.println("Total odd numbers = " +oddCount);
        System.out.println("Total even numbers = " +evenCount);
        System.out.println("Sum of even nums is = " +sum);
     }
+    
     public static boolean isEvenNumber(int num){
         if (num%2 == 0){
             return true;

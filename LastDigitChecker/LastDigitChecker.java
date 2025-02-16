@@ -1,5 +1,6 @@
 public class LastDigitChecker {
-    public static void main(String[] args){
+    
+    public static void main(String... args){
         System.out.println(hasSameLastDigit(22,33,44));
         System.out.println(hasSameLastDigit(22,32,44));
     }

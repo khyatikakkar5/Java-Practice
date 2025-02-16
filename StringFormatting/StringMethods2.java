@@ -1,6 +1,6 @@
 public class StringMethods2 {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         String birthDate = "25/11/2005";
         int startingIndex = birthDate.indexOf("2005");
@@ -40,7 +40,7 @@ public class StringMethods2 {
         System.out.println(newDate.replaceAll("/","---"));
 
          // Repeat method
-         
+
         System.out.println("ABC\n".repeat(4));
 
         System.out.println("-".repeat(10));

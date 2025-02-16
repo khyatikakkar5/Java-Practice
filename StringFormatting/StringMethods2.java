@@ -39,8 +39,8 @@ public class StringMethods2 {
         System.out.println(newDate.replaceFirst("/","-"));
         System.out.println(newDate.replaceAll("/","---"));
 
-
-        // Repeat method
+         // Repeat method
+         
         System.out.println("ABC\n".repeat(4));
 
         System.out.println("-".repeat(10));

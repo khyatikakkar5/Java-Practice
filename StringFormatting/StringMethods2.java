@@ -54,8 +54,5 @@ public class StringMethods2 {
 
         System.out.println("-".repeat(10));
 
-
-
-
     }
 }

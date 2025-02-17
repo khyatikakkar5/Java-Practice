@@ -1,6 +1,6 @@
 public class StringOptions {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         //Strings are immutable.
         String print = "Hello" + "World" ;

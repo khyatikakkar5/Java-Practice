@@ -20,7 +20,6 @@ public class Main {
             } catch(NumberFormatException nfe) {
                 System.out.println("Invalid number");
             }
-
         }
         System.out.println("The sum of the 5 numbers = " +sum);
     }

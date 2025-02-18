@@ -22,8 +22,6 @@ public class Main {
             }
 
         }
-
         System.out.println("The sum of the 5 numbers = " +sum);
-
-        }
+    }
 }

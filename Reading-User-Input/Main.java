@@ -9,6 +9,7 @@ public class Main {
         int sum = 0;
 
         while(counter <= 5) {
+
             System.out.println("Enter number #" +counter+ ":");
             String nextNumber = scanner.nextLine();
             try{
@@ -21,7 +22,8 @@ public class Main {
             }
 
         }
+
         System.out.println("The sum of the 5 numbers = " +sum);
 
-    }
+        }
 }

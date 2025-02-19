@@ -12,6 +12,7 @@ public class MinMax {
         while (true) {
             System.out.println("enter a number, or any character to exit.");
             String nextEntry = scanner.nextLine();
+            
             try {
                 double validNum = Double.parseDouble(nextEntry);
                 if (loopCount == 0 || validNum < min) {

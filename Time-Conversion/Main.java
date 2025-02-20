@@ -3,8 +3,6 @@ public class Main{
         System.out.println(getDurationString(-3945));
         System.out.println(getDurationString(-87,45));
         System.out.println(getDurationString ( 3945));
-
-
     }
     public static String getDurationString( int seconds) {
 

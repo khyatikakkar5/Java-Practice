@@ -4,7 +4,7 @@ public class Main{
         System.out.println(getDurationString(-87,45));
         System.out.println(getDurationString ( 3945));
     }
-    
+
     public static String getDurationString( int seconds) {
 
         if (seconds < 0) {
@@ -29,7 +29,6 @@ public class Main{
         int remainingMinutes = minutes % 60;
 
         return hours+ "h" + remainingMinutes+ "m"  + seconds+ "s";
-
 
     }
 }

@@ -1,5 +1,5 @@
 public class Time1 {
-    public static void main(String[] args){
+    public static void main(String... args){
 
         System.out.println( " Time is " +printYearsAndDays(1000000000));
 

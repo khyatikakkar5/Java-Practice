@@ -1,5 +1,5 @@
 public class Time {
-    public static void main(String[] args){
+    public static void main(String... args){
 
         System.out.println(" Time passed in seconds is " +TimeConversion(56789));
     }

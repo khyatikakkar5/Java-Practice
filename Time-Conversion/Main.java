@@ -1,5 +1,5 @@
 public class Main{
-    public static void main(String[] args){
+    public static void main(String... args){
         System.out.println(getDurationString(-3945));
         System.out.println(getDurationString(-87,45));
         System.out.println(getDurationString ( 3945));

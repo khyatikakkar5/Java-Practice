@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         Customer customer = new Customer("Khyati",1000,"Khyati@gmail.com");
         System.out.println(customer.getName());

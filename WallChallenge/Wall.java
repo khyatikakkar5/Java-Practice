@@ -1,5 +1,5 @@
 public class Wall {
-    // write code here
+    
     private double width;
     private double height;
 

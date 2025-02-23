@@ -3,8 +3,5 @@ public class Main {
 
         Wall wall = new Wall();
         wall.getArea(45,60);
-
-
-
     }
 }

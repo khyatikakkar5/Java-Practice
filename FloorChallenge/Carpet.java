@@ -1,5 +1,5 @@
 public class Carpet {
-    // write code here
+    
     private double cost;
 
     public void setCost(double cost) {

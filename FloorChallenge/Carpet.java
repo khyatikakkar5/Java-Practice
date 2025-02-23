@@ -18,5 +18,4 @@ public class Carpet {
         return cost;
     }
 
-
 }

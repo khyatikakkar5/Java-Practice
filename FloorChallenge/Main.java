@@ -8,8 +8,6 @@ public class Main {
         double area = floor.getArea();
         double cost = carpet.getCost();
 
-
-
         System.out.println(floor.getArea());
         System.out.println(carpet.getCost());
         System.out.println(area * cost);

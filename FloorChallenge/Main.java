@@ -14,7 +14,7 @@ public class Main {
         System.out.println(carpet.getCost());
         System.out.println(area * cost);
 
-}
+    }
 
 
 }

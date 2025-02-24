@@ -1,5 +1,5 @@
 public class Floor {
-    // write code here
+    
     private double width;
     private double length;
 

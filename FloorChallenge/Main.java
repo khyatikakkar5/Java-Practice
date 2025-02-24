@@ -4,7 +4,6 @@ public class Main {
         Floor floor = new Floor(45.5,50.6);
         Carpet carpet = new Carpet(78.5);
 
-
         double area = floor.getArea();
         double cost = carpet.getCost();
 

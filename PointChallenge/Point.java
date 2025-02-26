@@ -42,6 +42,4 @@ public class Point {
         int yDiff = this.y - y;
         return Math.sqrt(xDiff * xDiff + yDiff * yDiff);
     }
-
-
 }

@@ -1,5 +1,5 @@
 public class Point {
-    // write code here
+    
     private int x;
     private int y;
 

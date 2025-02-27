@@ -10,5 +10,5 @@ public class Main {
         Point point = new Point();
         System.out.println("distance()= " + point.distance());
         
-        }
+    }
 }

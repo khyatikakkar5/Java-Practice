@@ -35,13 +35,11 @@ public class Identity {
         return age;
     }
 
-
-
-
     public void setAge(int age) {
         if (age < 0 || age > 100) {
             this.age = 0;
-        } else { this.age = age;
+        } 
+        else { this.age = age;
         }
     }
 

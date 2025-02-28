@@ -1,6 +1,5 @@
 public class Identity {
 
-    // write code here
 
     private String firstName;
     private String lastName;

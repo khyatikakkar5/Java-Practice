@@ -58,17 +58,4 @@ public class Identity {
         return firstName + " " + lastName;
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }

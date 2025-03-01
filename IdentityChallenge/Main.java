@@ -14,11 +14,4 @@ public class Main {
         System.out.println("fullName= " + person.getFullName());
     }
     
-    
-    
-    
-    
-    
-    
-    
 }

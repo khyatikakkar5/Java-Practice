@@ -12,5 +12,6 @@ public class Main {
         System.out.println("teen= " + person.isTeen());
         person.setLastName("Smith");    // lastName is set to Smith
         System.out.println("fullName= " + person.getFullName());
+        
     }
 }

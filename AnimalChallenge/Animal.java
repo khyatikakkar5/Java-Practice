@@ -31,9 +31,4 @@ public class Animal {
         System.out.println(type + " makes some kind of noise");
     }
     
-    
-    
-    
-    
-    
 }

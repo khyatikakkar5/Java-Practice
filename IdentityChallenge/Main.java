@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        
         Identity person = new Identity();
         person.setFirstName("");   // firstName is set to empty string
         person.setLastName("");    // lastName is set to empty string

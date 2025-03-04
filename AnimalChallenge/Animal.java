@@ -13,7 +13,6 @@ public class Animal {
         this.type = type;
         this.size = size;
         this.weight = weight;
-        
     }
 
     @java.lang.Override

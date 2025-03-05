@@ -18,8 +18,6 @@ public class Main {
 
         Fish goldy = new Fish("Goldfish", 0.25,
                 2, 4);
-        
-        
         doAnimalStuff(goldy,"fast");
 
     }

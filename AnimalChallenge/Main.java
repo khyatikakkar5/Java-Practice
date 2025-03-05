@@ -26,16 +26,6 @@ public class Main {
 
     public static void doAnimalStuff(Animal animal, String speed) {
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
         animal.makeNoise();
         animal.move(speed);
         System.out.println(animal);

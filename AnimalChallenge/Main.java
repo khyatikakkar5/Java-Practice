@@ -12,7 +12,6 @@ public class Main {
         Dog labrador = new Dog("Labrador",30);
         doAnimalStuff(labrador,"fast");
         Dog retriever = new Dog("Retriever", 70,
-                
                 "Floppy","Pony");
         doAnimalStuff(retriever,"slow");
 

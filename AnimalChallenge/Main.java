@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         Animal animal = new Animal("Generic Animal", "Huge",
                 400);
@@ -11,7 +11,7 @@ public class Main {
 
         Dog labrador = new Dog("Labrador",30);
         doAnimalStuff(labrador,"fast");
-        
+
         Dog retriever = new Dog("Retriever", 70,
                 "Floppy","Pony");
         doAnimalStuff(retriever,"slow");

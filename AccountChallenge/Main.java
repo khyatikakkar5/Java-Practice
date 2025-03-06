@@ -10,5 +10,4 @@ public class Main {
         acc.depositFunds(250);
 
     }
-    
 }

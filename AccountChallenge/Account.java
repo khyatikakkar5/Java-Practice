@@ -9,7 +9,6 @@ public class Account {
     public void depositFunds(double depositAmount) {
         balance += depositAmount;
         System.out.println("Deposit of $" +depositAmount+ " made. New balance is $" +this.balance);
-
     }
 
     public void withdrawFunds(double withdrawalAmount) {

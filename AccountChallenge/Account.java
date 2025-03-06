@@ -13,8 +13,6 @@ public class Account {
 
     }
 
-    
-
     public void withdrawFunds(double withdrawalAmount) {
         if (balance - withdrawalAmount < 0) {
             System.out.println("Insufficient Funds! You only have $" +balance+ " in your account.");

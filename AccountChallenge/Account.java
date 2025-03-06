@@ -7,7 +7,6 @@ public class Account {
     private String customerPhone;
 
     public void depositFunds(double depositAmount) {
-
         balance += depositAmount;
         System.out.println("Deposit of $" +depositAmount+ " made. New balance is $" +this.balance);
 

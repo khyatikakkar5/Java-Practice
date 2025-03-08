@@ -51,7 +51,6 @@ public class Car {
             default -> {
                 this.make = "Unsupported";
             }
-
         }
         
     }

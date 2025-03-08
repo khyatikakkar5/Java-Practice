@@ -54,8 +54,7 @@ public class Car {
     }
 
     public void describeCar() {
-
-        System.out.println(doors + "-Door " +
+            System.out.println(doors + "-Door " +
                 color + " " +
                 make + " " +
                 model + " " +

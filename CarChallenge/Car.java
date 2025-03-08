@@ -43,7 +43,6 @@ public class Car {
     }
 
     public void setMake(String make) {
-
         if (make == null) make = "Unknown";
         String lowercaseMake = make.toLowerCase();
         switch(lowercaseMake) {

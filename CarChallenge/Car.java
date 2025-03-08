@@ -52,7 +52,6 @@ public class Car {
                 this.make = "Unsupported";
             }
         }
-        
     }
 
     public void describeCar() {

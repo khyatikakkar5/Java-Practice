@@ -1,3 +1,5 @@
+package CarChallenge;
+
 public class Car {
 
     private String make = "Ok";

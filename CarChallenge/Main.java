@@ -1,3 +1,4 @@
+package CarChallenge;
 public class Main {
     public static void main(String[] args) {
 
@@ -10,5 +11,6 @@ public class Main {
         tar.setMake("tesla");
         tar.setModel("Targa");
         tar.describeCar();
+
     }
 }

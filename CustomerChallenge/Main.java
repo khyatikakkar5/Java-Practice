@@ -1,4 +1,4 @@
-package ConstructorChallenge;
+package CustomerChallenge;
 
 public class Main {
 

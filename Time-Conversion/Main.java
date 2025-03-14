@@ -1,3 +1,5 @@
+package Time-Conversion;
+
 public class Main{
     public static void main(String... args){
         System.out.println(getDurationString(-3945));

@@ -1,3 +1,5 @@
+
+
 public class Wall {
     
     private double width;
@@ -44,3 +46,4 @@ public class Wall {
 
     }
 }
+

@@ -1,4 +1,4 @@
-
+package WallChallenge;
 
 public class Wall {
     

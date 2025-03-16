@@ -16,8 +16,6 @@ public class HourlyEmployee extends Employee {
         return 2 * collectPay();
     }
 
-
-    
 }
 
 

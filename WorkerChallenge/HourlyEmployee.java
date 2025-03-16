@@ -6,7 +6,6 @@ public class HourlyEmployee extends Employee {
         super(name, birthDate, hireDate);
         this.hourlyPayRate = hourlyPayRate;
     }
-
     @Override
     public double collectPay() {
         return 40 * hourlyPayRate;

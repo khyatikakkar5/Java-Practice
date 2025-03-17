@@ -22,7 +22,7 @@ public class Main {
 
         HourlyEmployee gibb = new HourlyEmployee("Gibb",
                 "07/09/2008", "09/07/2024",
- 45);
+        45);
         System.out.println(gibb);
         System.out.println("Gibb's Paycheck = $" +gibb.collectPay());
         System.out.println("Gibb's Holiday Pay = $" +gibb.getDoublePay());

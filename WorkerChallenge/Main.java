@@ -21,8 +21,7 @@ public class Main {
         System.out.println("Joe's Pension check = $" +joe.collectPay());
 
         HourlyEmployee gibb = new HourlyEmployee("Gibb",
-                "07/09/2008", "09/07/2024",
-        45);
+                "07/09/2008", "09/07/2024", 45);
         System.out.println(gibb);
         System.out.println("Gibb's Paycheck = $" +gibb.collectPay());
         System.out.println("Gibb's Holiday Pay = $" +gibb.getDoublePay());

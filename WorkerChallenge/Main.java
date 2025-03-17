@@ -11,7 +11,7 @@ public class Main {
         SalariedEmployee joe = new SalariedEmployee("Joe", "01/02/2004",
                 "01/02/2028",50000.0);
         System.out.println(joe);
-System.out.println("joe's paycheck is = $" +joe.collectPay());
+        System.out.println("joe's paycheck is = $" +joe.collectPay());
 
         joe.retire();
         System.out.println("Joe's Pension check = $" +joe.collectPay());

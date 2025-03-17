@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String args) {
+    public static void main(String... args) {
 
         Employee khyati = new Employee("Khyati","05/12/2005",
                 "01/01/2027");

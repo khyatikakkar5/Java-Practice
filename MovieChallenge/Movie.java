@@ -41,6 +41,7 @@ class Adventure extends Movie{
         System.out.println("watching an Adventure!");
     }
 }
+
 class Comedy extends Movie{
 
     public Comedy(String title) {

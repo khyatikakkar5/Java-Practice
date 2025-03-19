@@ -70,11 +70,13 @@ class ScienceFiction extends Movie{
     }
 
     public void watchMovie() {
+
         super.watchMovie();
         System.out.printf(".. %s%n".repeat(3),
                 "Aliens",
                 "Space",
                 "Planet");
+                
     }
 
     public void watchScienceFiction() {

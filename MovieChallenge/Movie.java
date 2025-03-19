@@ -49,11 +49,13 @@ class Comedy extends Movie{
     }
 
 public void watchMovie() {
+
         super.watchMovie();
         System.out.printf(".. %s%n".repeat(3),
                 "Funny",
                 "Funnier",
                 "Happy Ending");
+                
     }
 
     public void watchComedy() {
